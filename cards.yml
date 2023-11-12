@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to EazyBank cards related local APIs "
+  contactDetails:
+    name: "Omar SABRI - Developer"
+    email: "omar.sabri@omsa4code.com"
+  onCallSupport:
+    - (412) 419-3491
+    - (915) 382-1932
