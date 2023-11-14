@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related prod APIs "
+  message: "Welcome to EazyBank accounts related webhouk APIs "
   contactDetails:
     name: "Omar SABRI - Product Owner"
     email: "{cipher}5ffd44de73ce0320f9b61cbf188e058474e6dc0ff50337c79d4d0dee84e4f82b457eed0e0325ea9a09aa5c8b92f112ea"
